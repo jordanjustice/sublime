@@ -1,0 +1,23 @@
+{
+	"bold_folder_labels": true,
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Theme - Flatron/Flatron.tmTheme",
+	"font_face": "Inconsolata",
+	"font_size": 16.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"remember_open_files": false,
+	"shift_tab_unindent": true,
+	"tab_size": 2,
+	"theme": "Flatron.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
